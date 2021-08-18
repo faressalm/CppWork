@@ -1,4 +1,4 @@
 # Problem solving problems 
-* implemented in C++ 
+- implemented in C++ 
 ## Breadth First Search
 * 

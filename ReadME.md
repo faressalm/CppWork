@@ -5,4 +5,4 @@ implemented in C++
 * 
 ## it's the police
 * Algorithm used : Graph representation
-* on codeforces http://codeforces.com/problemset/gymProblem/101149/I
+* website: http://codeforces.com/problemset/gymProblem/101149/I

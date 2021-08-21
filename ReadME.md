@@ -1,7 +1,7 @@
 # Problem solving  
 implemented in C++ 
 
-## Breadth First Search
+## Shortest Reach
 * 
 ## it's the police
 * Algorithm used : Graph representation

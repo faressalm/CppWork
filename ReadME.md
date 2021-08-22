@@ -13,3 +13,5 @@ implemented in C++
 ## The Least Round way
 * 
 ## Kefa and Park
+* Algorithm used : tree & graph theory
+* http://codeforces.com/problemset/problem/580/C
